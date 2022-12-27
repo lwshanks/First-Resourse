@@ -10,7 +10,7 @@ This tutorial outlines the implementation of a Resource Group within Azure Virtu
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy a Resource Group within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to Deploy a Resource Group within Azure Compute](https://youtu.be/rRDeJhZtJ9U)
 
 <h2>Environments and Technologies Used</h2>
 
