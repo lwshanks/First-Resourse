@@ -54,5 +54,6 @@ Once the Resource Group is created, go back to the home screen to find the Stora
 <p>
 Now that the Storage Account is created go to the Containers tab in the first coloumn. Once selected it will prompt for a name, after naming  the Container select the upload icon and select a file from your desktop and load it to the container.
 
+
 <img src="https://imgur.com/B6Nxbrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
