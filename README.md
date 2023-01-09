@@ -36,7 +36,7 @@ This tutorial outlines the implementation of a Resource Group within Azure Virtu
 <img src="https://imgur.com/1hjEEiL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating the Azure account, from the home screen you should select Resource Groups icon, on the next page select "+" Create. The next page will prompt you to select your subscription. Next name the Resource Group and select a region. Select create at the bottom of the screen.
+ After creating the Azure account. From the home screen you should select the Resource Groups icon,  next select "+" Create. The next page will prompt you to select which subscription you would like to use. Next name the Resource Group and select a region. Select create at the bottom of the screen.
 </p>
 <br />
 
@@ -44,7 +44,7 @@ After creating the Azure account, from the home screen you should select Resourc
 <img src="https://imgur.com/HWBbTTS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the Resource Group is created, go back to the home screen to find the Storage Account icon. Once this is selected use the "+"Create icon to begin, next you will confirm your subscription and Resource Group is correct. Next select a unique name for the Storage Account and select a region. Select review and create.  
+Once the Resource Group is created, go to the home screen to find the Storage Account icon. Once this is selected use the "+"Create icon to begin, next you will confirm your subscription and Resource Group is correct. Next select a unique name for the Storage Account and select a region. Select review and create.  
 </p>
 <br />
 
